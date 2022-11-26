@@ -69,7 +69,7 @@ export default function Home() {
               <li>
                 <a
                   className=" font-burtons mr-6 text-gray-600 hover:text-gray-400"
-                  href=""
+                  href="https://portofolio-tonyajipalguno.netlify.app/"
                 >
                   Portofolio
                 </a>
